@@ -1,5 +1,6 @@
 # project-prep1
 
+Abdulahi, Chad, Gina, JJ
 
 ## Cooperation Plan
 
