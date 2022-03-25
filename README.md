@@ -63,7 +63,32 @@ Describe at least:
 
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-##Work Plan
+## Work Plan
 
 - Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts.
+
+## Git Process
+Plan out what your team’s Git workflow looks like for coding tasks.
+
+Describe at least:
+
+- What components of your project will live on GitHub?
+
+- How will you share the repository with your teammates?
+
+- What is your Git flow?
+
+
+Will you be using a PR review workflow? If so, consider:
+- How many people must review a PR?
+
+
+- Who merges PRs?
+
+
+- How often will you merge?
+
+
+-How will you communicate that it’s time to merge?
+
 
