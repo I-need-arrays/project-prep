@@ -2,7 +2,11 @@
 
 ### Wire-frame
 
-[Wireframe Location](./img/Website-Wireframing-Template.jpg)
+[Wireframe Location](./img/Website Wireframing Template.jpg)
+
+### Domain Model
+
+[Domain Model](./img/Flowchart.jpg)
 
 ### User stories
 
