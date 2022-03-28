@@ -17,7 +17,7 @@ Many people have challenges when studying new concepts. Each person has their ow
 
 ### Software Requirements
 
-We want to create a webpage that helps make learning or studing a new language easier by making flash cards that help with memorization. The user can also create their own cards or what we call decks to help suite their needs at the time.
+We want to create a webpage that helps make learning or studing a new language easier by making flash cards that help with memorization. The user can also create their own cards or what we call decks to help suite their needs at the time. This can also help teacher or instructor in their class to be a more fun and exciting way of teaching!
 Our website ins are 
 - Base cards help learn language that we agree on 
 - user can add multiple desks for different subjects
