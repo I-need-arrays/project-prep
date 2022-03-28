@@ -27,9 +27,16 @@ Describe at least:
 
 - What will be your group’s process to resolve conflict, when it arises?
 
+Everyone on the team will have their opinion heard. If two resolutions or opinions conflict, we will verbally discuss solutions and identify potential agreements.
+
 - What will your team do if one person is taking over the project and not letting the other members contribute?
 
+To help mitigate one person taking over the project, we will assign roles and QA helper roles. With this method, multiple people will be involved in various aspects of the project.
+
+
 - How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
+
+Our team will work individually and in pairs to complete features/challenges of this project. For timing conflicts, we will allows team members to work on their portion on the project and schedule daily scrum times to report
 
 - How will you raise concerns to members who are not adequately contributing?
 
